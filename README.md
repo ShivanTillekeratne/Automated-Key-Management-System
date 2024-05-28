@@ -3,8 +3,8 @@ This is our 1st Year hardware Project for our BSc Hons in Artificial Intelligenc
 
 ## Introduction
 The AKMS aims to address inefficiencies and security vulnerabilities in conventional key management systems used in institutions like schools, universities, and offices.
-# Key Components and Features:
 
+## Key Components and Features:
 ## Hardware:
 Utilizes Arduino UNO microcontroller, AS608 Fingerprint module, A3144 Hall effect sensors, Keypad 3x4, I2C expander module PCF8574T, push buttons, L298N Stepper motor drivers, Nema 17 Stepper motors, LCD display 16x2, Node MCU, SG90 Servo motor, and LEDs.
 Designed with a database and a webpage for seamless user interaction and data management.
